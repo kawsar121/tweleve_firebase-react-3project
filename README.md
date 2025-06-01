@@ -1,12 +1,16 @@
-# React + Vite
+*This is a Firebase with react colaborate project.
+*Add Goggle Sign In Method.
+*Add Goggle Sign Out Method.
+*And Github Add.
+*button usin Condion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+        //Firebase Add Copnfig
+    ** first go firebase console tab
+    ** project name
+    ** project setting
+    ** Authentication
+    ** add Google and added gamil/github add
+    ** go firebase main site and click build
+    ** then click documantion and click web then click sign in with google or github
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+        //Thaks for all
